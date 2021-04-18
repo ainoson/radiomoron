@@ -1003,7 +1003,7 @@ a {
   line-height: 1;
 }
 .cid-suxU8mz6zu span {
-  background-image: url("../../../assets/images/mbr-1-1920x1357.jpg");
+  background-image: url("../../../assets/images/fondo-radio-moron7-800x600.jpg");
   background-size: 1920px 600px;
   background-position: center;
   -webkit-text-fill-color: transparent;
@@ -1026,15 +1026,15 @@ a {
 .cid-suxU8mz6zu .mbr-section-title {
   color: #ffffff;
 }
-.cid-suEOkgokzf {
+.cid-suEOj7LFFX {
   padding-top: 180px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-suEOkgokzf h3 {
+.cid-suEOj7LFFX h3 {
   position: relative;
 }
-.cid-suEOkgokzf h3:before {
+.cid-suEOj7LFFX h3:before {
   position: absolute;
   content: '';
   left: 50%;
@@ -1044,7 +1044,7 @@ a {
   height: 100px;
   background: currentColor;
 }
-.cid-suEOkgokzf H1 {
+.cid-suEOj7LFFX H1 {
   color: #282b3e;
 }
 .cid-suDWqLCzre {
@@ -1191,27 +1191,6 @@ a {
     padding-top: 1rem;
     padding-bottom: 4rem;
   }
-}
-.cid-suEOj7LFFX {
-  padding-top: 180px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-suEOj7LFFX h3 {
-  position: relative;
-}
-.cid-suEOj7LFFX h3:before {
-  position: absolute;
-  content: '';
-  left: 50%;
-  top: -120px;
-  bottom: 0;
-  width: 1px;
-  height: 100px;
-  background: currentColor;
-}
-.cid-suEOj7LFFX H1 {
-  color: #282b3e;
 }
 .cid-suKySacpC3 {
   padding-top: 0rem;
@@ -1581,6 +1560,100 @@ a {
     height: 504px;
   }
 }
+.cid-suXXao25Yl {
+  padding-top: 165px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-suXXao25Yl .mbr-text {
+  color: #767676;
+}
+.cid-suXXao25Yl .card-subtitle {
+  margin: 0;
+}
+.cid-suXXao25Yl .link:hover {
+  color: #f3d332 !important;
+  text-decoration: none !important;
+}
+.cid-suXXao25Yl .card {
+  margin-bottom: 2rem;
+}
+.cid-suXXao25Yl .card:hover .img-overlay {
+  opacity: 0.15;
+}
+.cid-suXXao25Yl .card:hover .card-img:before {
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+.cid-suXXao25Yl .card:hover .card-img:after {
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+.cid-suXXao25Yl .card-img {
+  height: 220px;
+}
+.cid-suXXao25Yl img {
+  object-fit: cover;
+  height: 100%;
+}
+.cid-suXXao25Yl h4 {
+  margin: 0;
+}
+.cid-suXXao25Yl .row {
+  justify-content: center;
+}
+.cid-suXXao25Yl .mbr-text,
+.cid-suXXao25Yl .link {
+  color: #f3d332;
+}
+.cid-suXXao25Yl h3 {
+  width: fit-content;
+  display: inline-block;
+  position: relative;
+}
+.cid-suXXao25Yl h3:before {
+  position: absolute;
+  content: '';
+  left: 50%;
+  top: -120px;
+  bottom: 0;
+  width: 1px;
+  height: 100px;
+  background: currentColor;
+}
+.cid-suXXao25Yl .card-title,
+.cid-suXXao25Yl .card-img {
+  color: #000000;
+}
+.cid-suXXao25Yl H1 {
+  color: #282b3e;
+}
+.cid-suEPlsYHBA .google-map {
+  height: 30rem;
+  position: relative;
+}
+.cid-suEPlsYHBA .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-suEPlsYHBA .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-suEPlsYHBA .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-suEPlsYHBA .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
 .cid-suEPqpJUyB {
   padding-top: 180px;
   padding-bottom: 90px;
@@ -1718,32 +1791,6 @@ a {
 }
 .cid-suEPqpJUyB H1 {
   color: #282b3e;
-}
-.cid-suEPlsYHBA .google-map {
-  height: 30rem;
-  position: relative;
-}
-.cid-suEPlsYHBA .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-suEPlsYHBA .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-suEPlsYHBA .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-suEPlsYHBA .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-suDWuIiijk {
   padding-top: 90px;
