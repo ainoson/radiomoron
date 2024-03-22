@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://radiomoron.es/</title>
+  <link>http://radiomoron.es/</link>
+
+<item>
+     <link>https://www.radiomoron.es/</link>
+     <title>Inicio</title>
+     <description>Radio Morón - Cadena SER, la radio que cuenta contigo. Desde Morón de la Frontera, información, entretenimiento, noticias, actualidad y música para la campiña sevillana y el mundo. </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.radiomoron.es/index.html</link>
+     <title>Inicio</title>
+     <description>Radio Morón - Cadena SER, la radio que cuenta contigo. Desde Morón de la Frontera, información, entretenimiento, noticias, actualidad y música para la campiña sevillana y el mundo. </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.radiomoron.es/semanasanta.html</link>
+     <title>Semana Santa</title>
+     <description>Toda la información de la Semana Santa de Morón</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.radiomoron.es/politica-de-privacidad.html</link>
+     <title>Política de Privaciad</title>
+     <description>Aquí se describe la política de privacidad de Radio Morón</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.radiomoron.es/politica-de-cookies.html</link>
+     <title>Política de cookies</title>
+     <description>Política de cookies de Radio Morón</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
