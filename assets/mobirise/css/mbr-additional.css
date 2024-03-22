@@ -7304,6 +7304,90 @@ a {
 .cid-u7K8gl1SVn .mbr-text {
   color: #1c1c1c;
 }
+.cid-u7M8xcTuu4 {
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/screenshot-2024-03-22-at-19.16.39-1241x919.png");
+}
+.cid-u7M8xcTuu4 .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+  line-height: 1.6;
+}
+.cid-u7M8xcTuu4 .col-lg-3,
+.cid-u7M8xcTuu4 .col-lg-6 {
+  padding: 0!important;
+}
+.cid-u7M8xcTuu4 .btn {
+  border-radius: 30px;
+}
+.cid-u7M8xcTuu4 .card-wrapper {
+  min-height: 700px;
+  border-right: 1px solid white;
+}
+.cid-u7M8xcTuu4 .image-element {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+}
+.cid-u7M8xcTuu4 .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-u7M8xcTuu4 .wrapper {
+  padding: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-u7M8xcTuu4 .image-element:hover .wrapper {
+    padding-top: 0;
+  }
+  .cid-u7M8xcTuu4 .image-element:hover .wrapper .collapsed-content {
+    transition: opacity 0.3s, max-height 0.9s;
+    opacity: 1;
+    max-height: 999px;
+  }
+  .cid-u7M8xcTuu4 .wrapper {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 2rem;
+    background: transparent;
+  }
+  .cid-u7M8xcTuu4 .wrapper .collapsed-content {
+    transition: opacity 0.3s, max-height 0.3s;
+    opacity: 0;
+    max-height: 0px;
+    overflow: hidden;
+  }
+}
+@media (max-width: 992px) {
+  .cid-u7M8xcTuu4 .card-title,
+  .cid-u7M8xcTuu4 .underline,
+  .cid-u7M8xcTuu4 .mbr-text,
+  .cid-u7M8xcTuu4 .mbr-section-btn,
+  .cid-u7M8xcTuu4 .mbr-section-subtitle,
+  .cid-u7M8xcTuu4 .mbr-section-title {
+    text-align: center !important;
+  }
+  .cid-u7M8xcTuu4 .card-wrapper {
+    align-items: center;
+    display: flex;
+    min-height: 500px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-u7M8xcTuu4 .mbr-section-title {
+  text-align: left;
+}
+.cid-u7M8xcTuu4 .mbr-section-title,
+.cid-u7M8xcTuu4 .underline {
+  text-align: center;
+}
+.cid-u7M8xcTuu4 H4 {
+  color: #e1201d;
+}
 .cid-suDWuIiijk {
   padding-top: 90px;
   padding-bottom: 105px;
