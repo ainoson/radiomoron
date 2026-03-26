@@ -1,0 +1,25 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}@font-face {
+  font-family: 'HelveticaNeueMedium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HelveticaNeueMedium.ttf);
+}@font-face {
+  font-family: 'Poppins-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Poppins-Light.ttf);
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'HelveticaNeueMedium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HelveticaNeueMedium.ttf);
+}@font-face {
+  font-family: 'Poppins-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Poppins-Light.ttf);
+}
